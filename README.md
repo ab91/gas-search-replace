@@ -1,11 +1,6 @@
 # GAS Search Replace Script
 
-This Google Apps Script searches and replaces terms from Google Docs and Slides placed in a particular folder. 
+This demo Google Apps Script duplicates files and then searches and replaces terms from Google Docs and Slides files. It is a teaching tool accompanying [The 4-Step Guide to Automating Google Workspace Apps with Google Apps Scripts](#).
 
 ## Demo
 
-
-
-## Article
-
-This script accompanies [The 4-Step Guide to Automating Google Workspace Apps with Google Apps Scripts](#) on Medium.
