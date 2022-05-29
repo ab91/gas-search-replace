@@ -4,3 +4,4 @@ This demo Google Apps Script duplicates files and then searches and replaces ter
 
 ## Demo
 
+Watch my demo on Vimeo [here](https://vimeo.com/715015210).
